@@ -1,0 +1,1 @@
+ts_iso,model_vendor,model_name,model_version,geo_country,geo_code,vpn_node_id,prompt_id,prompt_lang,response_text,refusal_flag,refusal_reason,tokens_in,tokens_out,length_chars,length_words,toxicity_score,safety_flags,notes
