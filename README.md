@@ -51,7 +51,7 @@ The study investigates how large language model (LLM) outputs vary depending on 
     export DEEPSEEK_API_KEY=...
 2. **Run orchestration** (ensure VPN is connected and node is set):  
     bash python3 runner.py
-3.  Add toxicity scores:
+3.  Add toxicity scores (optional):
     python3 toxicity_score.py results.csv results_tox.csv
 4.  Analyse & plot:
     Refusal heatmap (F2)
