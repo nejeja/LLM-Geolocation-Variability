@@ -57,6 +57,19 @@ The study investigates how large language model (LLM) outputs vary depending on 
     Refusal heatmap (F2)
     Length/verbosity distributions (F3)
     Toxicity histograms (T2)
+    
+Ethics and Terms of Service
+VPN switching was used solely for academic research to study geolocation effects.
+No attempts were made to bypass safeguards, overload services, or generate harmful content.
+Prompts were designed to be safe and reproducible.
+Outputs are shared in aggregate to reduce vendor-specific reputational risks.
 
-
-
+Citation
+If you use this package, please cite:
+@article{nejedly2025geolocation,
+  title={Geolocation-Driven Variability in Large Language Model Outputs and Its Implications for Hybrid Threats},
+  author={Nejedlý, Jan},
+  year={2025},
+  journal={Preprint / Working Paper},
+  url={https://github.com/nejja/LLM-Geolocation-Variability}
+}
